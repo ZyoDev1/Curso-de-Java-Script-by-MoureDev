@@ -34,8 +34,7 @@ if(number>0){
 }
 
 // 4. Verifica si una persona puede votar o no (mayor o igual a 18) e indica cuántos años le faltan
-let age =14
-
+let age =17.5
 let añosRestantes = 18-age
 
 if(age>=18){
@@ -52,7 +51,7 @@ const edad = age <18 ? "Menor" : "Adulto"
 console.log(edad)
 
 // 6. Muestra en que estación del año nos encontramos dependiendo del valor de una variable "mes"
-let mes = "Mayo"
+let mes = "Febrero"
 let estacion
 
 if(mes=="Enero"|| mes=="Febrero"||mes=="Marzo"){
