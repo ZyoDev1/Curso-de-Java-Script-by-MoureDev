@@ -90,9 +90,9 @@ let myNewArray = myArray.slice(1,3)
 console.log(myArray)
 console.log(myNewArray)
 
-//Splice 
+//Splice -- indica en que indice quieres empezar y cuantos elementos eliminar
 
-myArray.splice(1,3)
+myArray.splice(1,3) // Empiezas en el indice 1 borras 3 elementos
 console.log(myArray)
 
 myArray = ["Jorge","Sebastian","ZyoDev",37,true]
