@@ -31,7 +31,7 @@ do {
 
 // for of- recorre valores de algo que sea iterable
 
-myArray = ["Jorge","Sebastian","ZyoDev",37,true]
+myArray = [1,2,3,4]
 
 mySet= new Set(["Jorge","Sebastian","ZyoDev",37,true,"jsebastiansoriano@gmail.com"])
 
